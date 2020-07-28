@@ -13,3 +13,5 @@
 <a href="https://twitter.com/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="devhectorga" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
