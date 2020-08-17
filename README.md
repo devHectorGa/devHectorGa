@@ -14,21 +14,21 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 187 Contributions in year 2020
+> 🏆 188 Contributions in the year 2020
  > 
-> 📦 Used 37.5 kB in GitHub's Storage 
+> 📦 37.5 kB Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 30 Public repositories
  > 
-> 🔑 4 Owned Private Repositories 
+> 🔑 4 Private repositories 
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    43 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
@@ -37,7 +37,7 @@
 🌙 Night      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.37%
 
 ```
-📅 **I'm Most Productive on Sundays** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       43 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
@@ -51,31 +51,34 @@ Sunday       47 commits     ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Bogota
+⌚︎ Time zone: America/Bogota
 
-💬 Languages: 
-JavaScript               7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   42.92% 
-CSS                      4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.07% 
-HTML                     3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58% 
-JSX                      1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-SCSS                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+💬 Programming Languages: 
+JavaScript               5 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   34.7% 
+CSS                      4 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.57% 
+HTML                     3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
+Other                    3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
-🔥 Editors: 
-VS Code                  16 hrs 49 mins      █████████████████████████   100.0%
+🔥 Code Editors: 
+VS Code                  13 hrs 57 mins      ████████████████████░░░░░   81.53% 
+Chrome                   3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.47%
 
 🐱‍💻 Projects: 
-desafio082020            9 hrs 56 mins       ██████████████░░░░░░░░░░░   59.11% 
-nacionaldemontacargas    6 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.89%
+desafio082020            9 hrs 56 mins       ██████████████░░░░░░░░░░░   58.05% 
+dataStructure            6 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   35.19% 
+nacionaldemontacargas    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
 
-💻 Operating Systems: 
-Linux                    16 hrs 49 mins      █████████████████████████   100.0%
+💻 Operating System: 
+Linux                    13 hrs 57 mins      ████████████████████░░░░░   81.53% 
+Windows                  3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.47%
 
 ```
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               15 repos            ██████████████████░░░░░░░   75.0% 
