@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
@@ -57,16 +57,16 @@ Sunday       63 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Other                    5 hrs 50 mins       █████████████████████████   100.0%
+Other                    1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-Chrome                   5 hrs 50 mins       █████████████████████████   100.0%
+Chrome                   1 min               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-nacionaldemontacargas    5 hrs 50 mins       █████████████████████████   100.0%
+nacionaldemontacargas    1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 50 mins       █████████████████████████   100.0%
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
