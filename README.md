@@ -14,11 +14,11 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 312 Contributions in the Year 2020
+> 🏆 317 Contributions in the Year 2020
  > 
 > 📦 58.5 kB Used in Github's Storage 
  > 
@@ -57,16 +57,16 @@ Sunday       63 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Other                    4 hrs 34 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Chrome                   4 hrs 34 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-nacionaldemontacargas    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+nacionaldemontacargas    4 hrs 34 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Windows                  4 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
