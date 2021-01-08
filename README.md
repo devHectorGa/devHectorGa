@@ -14,13 +14,13 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 5 Contributions in the Year 2021
  > 
-> 📦 58.7 kB Used in Github's Storage 
+> 📦 59.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
