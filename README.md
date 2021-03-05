@@ -14,13 +14,13 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 49 Contributions in the Year 2021
+> 🏆 50 Contributions in the Year 2021
  > 
-> 📦 180.9 kB Used in Github's Storage 
+> 📦 181.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,16 +57,22 @@ Sunday       69 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Other                    1 hr 16 mins        █████████████████████████   100.0%
+JavaScript               5 hrs 12 mins       ████████████████████░░░░░   79.67% 
+JSX                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
+Groovy                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
 
 🔥 Editors: 
-Browser                  1 hr 16 mins        █████████████████████████   100.0%
+VS Code                  6 hrs 32 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-nacionaldemontacargas    1 hr 16 mins        █████████████████████████   100.0%
+nacionaldemontacargas    5 hrs 52 mins       ██████████████████████░░░   89.68% 
+cotizadorPrestamosReactNa40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.32%
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.0%
+Linux                    5 hrs 52 mins       ██████████████████████░░░   89.68% 
+Windows                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.32%
 
 ```
 
