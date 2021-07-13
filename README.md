@@ -20,7 +20,7 @@
 
 > 🏆 245 Contributions in the Year 2021
  > 
-> 📦 214.7 kB Used in Github's Storage 
+> 📦 215.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,5 +90,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/07/2021
+ Last Updated on 13/07/2021
 <!--END_SECTION:waka-->
