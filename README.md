@@ -20,7 +20,7 @@
 
 > 🏆 260 Contributions in the Year 2021
  > 
-> 📦 215.3 kB Used in Github's Storage 
+> 📦 215.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,16 +57,22 @@ Sunday       73 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    29 mins             ███████████████░░░░░░░░░░   63.3% 
+JSX                      11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.19% 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  29 mins             ███████████████░░░░░░░░░░   63.3% 
+VS Code                  17 mins             █████████░░░░░░░░░░░░░░░░   36.7%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nacionaldemontacargas    42 mins             ██████████████████████░░░   91.33% 
+crowdfounding_front      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.67%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             ███████████████░░░░░░░░░░   63.3% 
+Linux                    17 mins             █████████░░░░░░░░░░░░░░░░   36.7%
 
 ```
 
@@ -87,5 +93,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/08/2021
+ Last Updated on 10/08/2021
 <!--END_SECTION:waka-->
