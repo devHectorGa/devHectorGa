@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -87,5 +87,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2021
+ Last Updated on 02/09/2021
 <!--END_SECTION:waka-->
