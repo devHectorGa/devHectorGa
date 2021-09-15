@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My Github Data** 
 
@@ -57,16 +57,16 @@ Sunday       66 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Other                    2 hrs 15 mins       █████████████████████████   100.0%
+Other                    2 hrs 11 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  2 hrs 15 mins       █████████████████████████   100.0%
+Browser                  2 hrs 11 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-tec-cyberbank-channels   2 hrs 15 mins       █████████████████████████   100.0%
+tec-cyberbank-channels   2 hrs 11 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 15 mins       █████████████████████████   100.0%
+Windows                  2 hrs 11 mins       █████████████████████████   100.0%
 
 ```
 
@@ -87,5 +87,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2021
+ Last Updated on 15/09/2021
 <!--END_SECTION:waka-->
