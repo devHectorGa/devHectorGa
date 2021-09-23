@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 264 Contributions in the Year 2021
  > 
-> 📦 217.0 kB Used in Github's Storage 
+> 📦 217.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,16 +57,16 @@ Sunday       66 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Other                    3 hrs 17 mins       █████████████████████████   100.0%
+Other                    1 hr 20 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  3 hrs 17 mins       █████████████████████████   100.0%
+Browser                  1 hr 20 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-tec-cyberbank-channels   3 hrs 17 mins       █████████████████████████   100.0%
+tec-cyberbank-channels   1 hr 20 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 17 mins       █████████████████████████   100.0%
+Windows                  1 hr 20 mins        █████████████████████████   100.0%
 
 ```
 
@@ -87,5 +87,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 19/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
