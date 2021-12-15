@@ -20,7 +20,7 @@
 
 > 🏆 281 Contributions in the Year 2021
  > 
-> 📦 559.9 kB Used in GitHub's Storage 
+> 📦 560.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,16 +57,16 @@ Sunday       63 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Other                    2 hrs 22 mins       █████████████████████████   100.0%
+Other                    35 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Browser                  2 hrs 22 mins       █████████████████████████   100.0%
+Browser                  35 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-tec-cyberbank-channels   2 hrs 22 mins       █████████████████████████   100.0%
+tec-cyberbank-channels   35 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       █████████████████████████   100.0%
+Windows                  35 mins             █████████████████████████   100.0%
 
 ```
 
@@ -87,5 +87,5 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
