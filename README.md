@@ -57,16 +57,16 @@ Sunday       24 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Other                    43 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Browser                  43 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tec-cyberbank-channels   43 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -87,5 +87,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/04/2022 05:00:33 UTC
+ Last Updated on 17/04/2022 04:47:37 UTC
 <!--END_SECTION:waka-->
