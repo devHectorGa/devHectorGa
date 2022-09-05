@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C815%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -30,48 +30,6 @@
  > 
 > 🔑 8 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    55 commits     ██████░░░░░░░░░░░░░░░░░░░   27.36% 
-🌆 Daytime    92 commits     ███████████░░░░░░░░░░░░░░   45.77% 
-🌃 Evening    54 commits     ██████░░░░░░░░░░░░░░░░░░░   26.87% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
-Wednesday    53 commits     ██████░░░░░░░░░░░░░░░░░░░   26.37% 
-Thursday     35 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
-Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.96% 
-Saturday     42 commits     █████░░░░░░░░░░░░░░░░░░░░   20.9% 
-Sunday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.98%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -89,5 +47,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 05:20:59 UTC
+ Last Updated on 05/09/2022 05:50:10 UTC
 <!--END_SECTION:waka-->
