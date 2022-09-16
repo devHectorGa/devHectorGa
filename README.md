@@ -30,6 +30,48 @@
  > 
 > 🔑 8 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    63 commits     ███████░░░░░░░░░░░░░░░░░░   28.64% 
+🌆 Daytime    97 commits     ███████████░░░░░░░░░░░░░░   44.09% 
+🌃 Evening    60 commits     ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Tuesday      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
+Wednesday    55 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Thursday     45 commits     █████░░░░░░░░░░░░░░░░░░░░   20.45% 
+Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
+Saturday     42 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
+Sunday       8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.64%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -47,5 +89,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2022 05:51:29 UTC
+ Last Updated on 16/09/2022 05:54:22 UTC
 <!--END_SECTION:waka-->
