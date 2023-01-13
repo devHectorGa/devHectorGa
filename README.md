@@ -16,68 +16,28 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C815%20hrs%2037%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 215 Contributions in the Year 2022
+> 🏆 6 Contributions in the Year 2023
  > 
-> 📦 632.5 kB Used in GitHub's Storage 
+> 📦 640.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 60 Public Repositories 
+> 📜 62 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    97 commits     ███████░░░░░░░░░░░░░░░░░░   29.39% 
-🌆 Daytime    125 commits    █████████░░░░░░░░░░░░░░░░   37.88% 
-🌃 Evening    108 commits    ████████░░░░░░░░░░░░░░░░░   32.73% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       61 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.48% 
-Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Wednesday    72 commits     █████░░░░░░░░░░░░░░░░░░░░   21.82% 
-Thursday     68 commits     █████░░░░░░░░░░░░░░░░░░░░   20.61% 
-Friday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-Saturday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.94%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               28 repos            █████████████░░░░░░░░░░░░   54.9% 
-TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.8% 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
+JavaScript               28 repos            █████████████░░░░░░░░░░░░   51.85% 
+TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+HTML                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
 
 ```
 
@@ -87,5 +47,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 05:10:08 UTC
+ Last Updated on 13/01/2023 04:42:18 UTC
 <!--END_SECTION:waka-->
