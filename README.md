@@ -20,7 +20,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 6 Contributions in the Year 2023
+> 🏆 7 Contributions in the Year 2023
  > 
 > 📦 640.6 kB Used in GitHub's Storage 
  > 
@@ -30,6 +30,48 @@
  > 
 > 🔑 10 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    84 commits     ████████░░░░░░░░░░░░░░░░░   32.94% 
+🌆 Daytime    89 commits     ████████░░░░░░░░░░░░░░░░░   34.9% 
+🌃 Evening    80 commits     ███████░░░░░░░░░░░░░░░░░░   31.37% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       53 commits     █████░░░░░░░░░░░░░░░░░░░░   20.78% 
+Tuesday      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
+Wednesday    63 commits     ██████░░░░░░░░░░░░░░░░░░░   24.71% 
+Thursday     52 commits     █████░░░░░░░░░░░░░░░░░░░░   20.39% 
+Friday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.37% 
+Saturday     8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
+Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.71%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -47,5 +89,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 04:42:18 UTC
+ Last Updated on 14/01/2023 04:39:08 UTC
 <!--END_SECTION:waka-->
