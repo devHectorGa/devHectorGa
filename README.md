@@ -14,13 +14,13 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C819%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C826%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 640.6 kB Used in GitHub's Storage 
+> 📦 640.7 kB Used in GitHub's Storage 
  > 
 > 🏆 217 Contributions in the Year 2023
  > 
@@ -57,21 +57,21 @@ Sunday                   1419 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Other                    2 hrs 42 mins       █████████████████░░░░░░░░   68.79 % 
-JavaScript               1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-SCSS                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other                    8 hrs 13 mins       ███████████████████░░░░░░   77.29 % 
+JavaScript               2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+SCSS                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 42 mins       █████████████████░░░░░░░░   68.76 % 
-VS Code                  1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   31.24 % 
+Chrome                   8 hrs 13 mins       ███████████████████░░░░░░   77.28 % 
+VS Code                  2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
 
 🐱‍💻 Projects: 
-ca-web-er                3 hrs 46 mins       ████████████████████████░   95.68 % 
-tec-cyberbank-channels   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+ca-web-er                10 hrs 28 mins      █████████████████████████   98.40 % 
+tec-cyberbank-channels   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +91,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2023 04:40:50 UTC
+ Last Updated on 09/07/2023 04:42:01 UTC
 <!--END_SECTION:waka-->
