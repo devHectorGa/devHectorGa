@@ -14,13 +14,13 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C898%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C902%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 640.9 kB Used in GitHub's Storage 
+> 📦 641.0 kB Used in GitHub's Storage 
  > 
 > 🏆 245 Contributions in the Year 2023
  > 
@@ -57,20 +57,20 @@ Sunday                   1419 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Other                    13 hrs 24 mins      ████████████████░░░░░░░░░   62.71 % 
-JavaScript               7 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
-SCSS                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other                    16 hrs 23 mins      ████████████████░░░░░░░░░   64.71 % 
+JavaScript               8 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.37 % 
+SCSS                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 22 mins      ████████████████░░░░░░░░░   62.61 % 
-VS Code                  7 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.39 % 
+Chrome                   16 hrs 21 mins      ████████████████░░░░░░░░░   64.62 % 
+VS Code                  8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.38 % 
 
 🐱‍💻 Projects: 
-ca-web-er                19 hrs 35 mins      ███████████████████████░░   91.65 % 
-ca-acceptance-tests      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+ca-web-er                23 hrs 32 mins      ███████████████████████░░   92.95 % 
+ca-acceptance-tests      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 💻 Operating System: 
-Mac                      21 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +90,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2023 04:37:10 UTC
+ Last Updated on 30/07/2023 04:36:36 UTC
 <!--END_SECTION:waka-->
