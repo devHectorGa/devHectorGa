@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C902%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C906%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,20 +57,19 @@ Sunday                   1419 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Other                    16 hrs 23 mins      ████████████████░░░░░░░░░   64.71 % 
-JavaScript               8 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.37 % 
-SCSS                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Other                    15 hrs 40 mins      ███████████████░░░░░░░░░░   61.77 % 
+JavaScript               9 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.28 % 
+SCSS                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 21 mins      ████████████████░░░░░░░░░   64.62 % 
-VS Code                  8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.38 % 
+Chrome                   15 hrs 39 mins      ███████████████░░░░░░░░░░   61.68 % 
+VS Code                  9 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
 
 🐱‍💻 Projects: 
-ca-web-er                23 hrs 32 mins      ███████████████████████░░   92.95 % 
-ca-acceptance-tests      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+ca-web-er                25 hrs 22 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,5 +89,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2023 04:36:36 UTC
+ Last Updated on 31/07/2023 04:36:57 UTC
 <!--END_SECTION:waka-->
