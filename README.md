@@ -14,15 +14,13 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C003%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C004%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 647.5 kB Used in GitHub's Storage 
- > 
-> 🏆 215 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,16 +55,21 @@ Sunday                   1485 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     34 mins             █████████████████░░░░░░░░   69.36 % 
+CSS                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          34 mins             █████████████████░░░░░░░░   69.36 % 
+devHectorGa-challenge    15 mins             ████████░░░░░░░░░░░░░░░░░   30.64 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +89,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2024 04:34:48 UTC
+ Last Updated on 18/05/2024 04:34:55 UTC
 <!--END_SECTION:waka-->
