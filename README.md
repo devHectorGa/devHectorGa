@@ -14,13 +14,15 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C030%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C030%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 647.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 223 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,21 +57,21 @@ Sunday                   1493 commits        ██████░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Vue.js                   12 hrs 59 mins      ███████████████░░░░░░░░░░   61.76 % 
-JavaScript               4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-TypeScript               2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Vue.js                   13 hrs 22 mins      ████████████████░░░░░░░░░   62.45 % 
+JavaScript               4 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+TypeScript               2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  21 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-interview-exercise-devHec18 hrs 13 mins      ██████████████████████░░░   86.66 % 
-devHectorGa-challenge    2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+interview-exercise-devHec18 hrs 36 mins      ██████████████████████░░░   86.90 % 
+devHectorGa-challenge    2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 
 💻 Operating System: 
-Mac                      21 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      21 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,5 +91,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2024 04:37:32 UTC
+ Last Updated on 30/05/2024 04:39:39 UTC
 <!--END_SECTION:waka-->
