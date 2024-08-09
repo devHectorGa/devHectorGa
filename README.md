@@ -22,8 +22,6 @@
 
 > 📦 647.8 kB Used in GitHub's Storage 
  > 
-> 🏆 340 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 63 Public Repositories 
@@ -86,5 +84,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2024 04:39:47 UTC
+ Last Updated on 09/08/2024 04:38:09 UTC
 <!--END_SECTION:waka-->
