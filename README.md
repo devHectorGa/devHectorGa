@@ -14,6 +14,8 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C059%20hrs%2012%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -28,6 +30,45 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1543 commits        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+🌆 Daytime                3086 commits        ███████████░░░░░░░░░░░░░░   42.03 % 
+🌃 Evening                2358 commits        ████████░░░░░░░░░░░░░░░░░   32.12 % 
+🌙 Night                  355 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   917 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Tuesday                  786 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Wednesday                1115 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Thursday                 1274 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Friday                   958 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Saturday                 541 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Sunday                   1751 commits        ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -45,5 +86,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2025 04:38:51 UTC
+ Last Updated on 17/02/2025 04:41:53 UTC
 <!--END_SECTION:waka-->
