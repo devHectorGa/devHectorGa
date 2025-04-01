@@ -20,9 +20,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 655.7 kB Used in GitHub's Storage 
+> 📦 655.9 kB Used in GitHub's Storage 
  > 
-> 🏆 93 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,5 +86,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2025 04:43:40 UTC
+ Last Updated on 01/04/2025 04:44:28 UTC
 <!--END_SECTION:waka-->
