@@ -20,7 +20,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 665.9 kB Used in GitHub's Storage 
+> 📦 666.1 kB Used in GitHub's Storage 
  > 
 > 🏆 216 Contributions in the Year 2025
  > 
@@ -30,6 +30,45 @@
  > 
 > 🔑 12 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1593 commits        ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+🌆 Daytime                2875 commits        ██████████░░░░░░░░░░░░░░░   40.77 % 
+🌃 Evening                2240 commits        ████████░░░░░░░░░░░░░░░░░   31.77 % 
+🌙 Night                  343 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   920 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Tuesday                  773 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Wednesday                1030 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Thursday                 1294 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Friday                   863 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Saturday                 504 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Sunday                   1667 commits        ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -47,5 +86,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2025 04:48:02 UTC
+ Last Updated on 07/06/2025 04:44:25 UTC
 <!--END_SECTION:waka-->
