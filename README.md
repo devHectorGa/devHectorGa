@@ -16,11 +16,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C059%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 713.9 kB Used in GitHub's Storage 
+> 📦 714.1 kB Used in GitHub's Storage 
  > 
 > 🏆 632 Contributions in the Year 2025
  > 
@@ -86,5 +86,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2025 04:54:47 UTC
+ Last Updated on 17/12/2025 04:52:42 UTC
 <!--END_SECTION:waka-->
