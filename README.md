@@ -14,11 +14,13 @@
 <a href="https://linkedin.com/in/devhectorga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="devhectorga" height="20" width="20" /></a>
 </p>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C374%20hrs%2046%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 802.2 kB Used in GitHub's Storage 
+> 📦 802.5 kB Used in GitHub's Storage 
  > 
 > 🏆 799 Contributions in the Year 2026
  > 
@@ -28,6 +30,51 @@
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3918 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+🌆 Daytime                8371 commits        █████████░░░░░░░░░░░░░░░░   35.82 % 
+🌃 Evening                9769 commits        ██████████░░░░░░░░░░░░░░░   41.81 % 
+🌙 Night                  1309 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   3364 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Tuesday                  2947 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Wednesday                2778 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Thursday                 5504 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Friday                   3180 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Saturday                 1978 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Sunday                   3616 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -45,5 +92,5 @@ Vue                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devHectorGa/devHectorGa/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 06:02:28 UTC
+ Last Updated on 08/08/2026 05:18:53 UTC
 <!--END_SECTION:waka-->
